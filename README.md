@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @poa88login
 - 👀 I’m interested in poa88
 - 🌱 I’m currently learning to link
-- 💞️ I’m looking to collaborate on poa88.org
+- 💞️ I’m looking to collaborate on poa88.com
 - 📫 How to reach me ...
 
 <!---
